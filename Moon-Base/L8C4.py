@@ -1,4 +1,3 @@
-
 import socket 
 
 text_file = open("backdoor.txt", "r")
