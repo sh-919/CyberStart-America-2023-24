@@ -1,0 +1,8 @@
+with open("/tmp/cars.txt", "a") as myfile:
+  for x in range(0, 50):
+    myfile.write("There are " + str(x) + " cars\n")
+
+# CHALLENGE 2: Open the file at /tmp/cars.txt and read the contents.
+#      Print the contents to the screen.
+with open("/tmp/cars.txt", "r") as myfile:
+  print(myfile.read())
