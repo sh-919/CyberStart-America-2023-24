@@ -1,3 +1,3 @@
 # CyberStart-America-2023-24
 
-dump of programs I wrote for cyberstart america 2023 and 2024
+Archive of programs I wrote while competing in Cyberstart America 2023 and 2024.
